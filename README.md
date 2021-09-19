@@ -1,7 +1,7 @@
 # Newspaper
  HTML CSS design of a newspaper
 ## This Webpage is designed on a 1254 X 1476 screen .
-## <a href="https://tender-panini-b81923.netlify.app"><b>Have a look at Netlify</b></a>
+## <a href="https://elated-meninsky-27fe32.netlify.app"><b>Have a look at Netlify</b></a>
 ### Page 1
 <p align="center">
   <img src="Newspaper 1 result/newspaper1 (1) .PNG">
